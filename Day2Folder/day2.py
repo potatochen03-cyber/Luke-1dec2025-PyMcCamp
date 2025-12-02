@@ -25,8 +25,7 @@ print("hello from day2")
 # Task 4:
 for co in range(1,11):
     print(co)
-for coy in range(5,33):
-    print(coy)
+
 for count in range(50,0,-1):
     print(count)
 
