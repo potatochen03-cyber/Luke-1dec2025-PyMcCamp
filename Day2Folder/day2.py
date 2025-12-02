@@ -13,7 +13,7 @@ for count in range(100):
 # Task 2:
 name ="ryan".upper()
 for letter in name:
-    print("")
+    print("give me a"+ls)
 
 ########################################################################
 # Task 3:
