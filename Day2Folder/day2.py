@@ -13,8 +13,8 @@ print("hello from day2")
 # Task 2:
 #for letter in name:
 #    print("give me a "+letter+"!")
-print("who is the best!!?!")
-print(name+"!!!")
+#print("who is the best!!?!")
+#print(name+"!!!")
 ########################################################################
 # Task 3:
 #for cont in range (10):
