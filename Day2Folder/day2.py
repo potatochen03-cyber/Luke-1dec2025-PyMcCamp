@@ -11,8 +11,8 @@ print("hello from day2")
 
 ########################################################################
 # Task 2:
-for letter in name:
-    print("give me a "+letter+"!")
+#for letter in name:
+#    print("give me a "+letter+"!")
 print("who is the best!!?!")
 print(name+"!!!")
 ########################################################################
