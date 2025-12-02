@@ -42,5 +42,5 @@ for count in range(50,0,-1):
 
 ########################################################################
 # Additional exercises:
-for me in range(11):
+for me in range(7,33):
     print(me)
