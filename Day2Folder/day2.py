@@ -4,27 +4,31 @@ print("hello from day2")
 
 ########################################################################
 # Task 1:
-for count in range(100):
-    print("i promise")
-    print("i will not sling mud at my friends")
+#for count in range(100):
+#    print("i promise")
+    # print("i will not sling mud ?at my friends")
 
 
 ########################################################################
 # Task 2:
-name ="luke".upper()
 for letter in name:
     print("give me a "+letter+"!")
 print("who is the best!!?!")
 print(name+"!!!")
 ########################################################################
 # Task 3:
-for cont in range (10):
-    print(cont)
+#for cont in range (10):
+#    print(cont)
 
 
 ########################################################################
 # Task 4:
-
+for co in range(1,11):
+    print(co)
+for coy in range(2,101,2):
+    print(coy)
+for count in range(51,0,-1):
+    print(count)
 
 
 ########################################################################
