@@ -42,5 +42,5 @@ print("hello from day2")
 
 ########################################################################
 # Additional exercises:
-for me in range(100,-1,-2):
-    print(me)
+#for me in range(100,-1,-2):
+#    print(me)
