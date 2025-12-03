@@ -62,6 +62,8 @@ for count in range(10):
 ########################################################################
 # Task 8:
 import random
+for count in range(2):
+    
 
 
 
