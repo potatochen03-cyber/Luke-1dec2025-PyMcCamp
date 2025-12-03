@@ -68,7 +68,7 @@ for count in range(2):
 num1=random.randint(10,100)
 num2=random.randint(10,100)
 guess=input("what is "+ str(num1) + str(num2))
-if guess==num1:
+if guess==num1 + num2:
     print("YOU ARE SMART")
 else:
     print("GO AND SEE THE PRINCIPAL")
