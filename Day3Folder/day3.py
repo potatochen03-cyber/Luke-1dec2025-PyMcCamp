@@ -33,7 +33,8 @@ print("your total is " + str(total))
 # Task 5:
 age1=input("what is age1? ")
 age2=input("what is age2? ")
-
+if age1>age2:
+    print
 
 
 ########################################################################
