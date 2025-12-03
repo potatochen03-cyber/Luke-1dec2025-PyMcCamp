@@ -16,7 +16,8 @@ print(name +"bought "+str(num_pens) +" pens.")
 ########################################################################
 # Task 3:
 num1=int(input("your first number is?"))
-num2=int(input(""))
+num2=int(input("your second number is?"))
+
 
 
 ########################################################################
