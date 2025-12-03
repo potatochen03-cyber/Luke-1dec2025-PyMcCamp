@@ -6,7 +6,7 @@ print("hello from day3")
 # Task 1:
 myname = input("what is your name")
 mytitle = input("what is ur title")
-mycommand = input("what is ur command")
+mycommand = input("what is your command")
 print(mytitle + myname + mycommand)
 
 
