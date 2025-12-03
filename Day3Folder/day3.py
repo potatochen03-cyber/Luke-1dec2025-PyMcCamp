@@ -68,7 +68,8 @@ for count in range(2):
 num1=35
 num2=47
 guess=input("what is num1 + num2")
-
+if guess==82:
+    print
 
 
 
