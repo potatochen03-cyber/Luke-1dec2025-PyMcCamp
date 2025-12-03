@@ -34,7 +34,9 @@ print("your total is " + str(total))
 age1=input("what is age1? ")
 age2=input("what is age2? ")
 if age1>age2:
-    print("age1 is ")
+    print("age1 is older")
+else:
+    print
 
 
 ########################################################################
