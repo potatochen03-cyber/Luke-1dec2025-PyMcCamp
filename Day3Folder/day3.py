@@ -71,7 +71,7 @@ guess=input("what is num1 + num2")
 if guess==82:
     print("YOU ARE SMART")
 else:
-    print("")
+    print("GO AND SEE THE PRINCIPAL")
 
 
 
