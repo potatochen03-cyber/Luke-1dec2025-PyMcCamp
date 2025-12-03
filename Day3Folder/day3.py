@@ -10,7 +10,7 @@ print("hello from day3")
 # Task 2:
 name=Luke
 num_pens=12
-print(name +"bought "+num)
+print(name +"bought "+num_pens +"")
 
 
 ########################################################################
