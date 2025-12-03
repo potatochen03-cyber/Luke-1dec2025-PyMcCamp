@@ -67,7 +67,7 @@ for count in range(2):
 #35,47
 num1=35
 num2=47
-
+guess=
 
 
 
