@@ -12,3 +12,4 @@ def bw():
         agent.move(DOWN, 4)
 
 player.on_chat("bw",bw)
+
