@@ -64,7 +64,8 @@ for count in range(10):
 import random
 for count in range(2):
     print(random.randint(10,100))
-#35
+#35,47
+
 
 
 
