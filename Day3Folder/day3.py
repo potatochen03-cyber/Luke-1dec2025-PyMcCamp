@@ -8,8 +8,8 @@ print("hello from day3")
 
 ########################################################################
 # Task 2:
-name="Luke"
-num_pens=12
+name="Luke "
+num_pens=12 
 print(name +"bought "+str(num_pens) +"pens.")
 
 
