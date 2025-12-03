@@ -25,7 +25,8 @@ print(str(num1) + "+" + str(num2) +"="+ str(sum))
 # Task 4:
 price=3
 amt_of_things= int(input("how much items"))
-total= price * amt_
+total= price * amt_of_things
+print
 
 
 ########################################################################
