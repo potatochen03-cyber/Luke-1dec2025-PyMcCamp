@@ -18,7 +18,7 @@ print(name +"bought "+str(num_pens) +" pens.")
 num1=int(input("your first number is?"))
 num2=int(input("your second number is?"))
 sum=num1 + num2
-print(str() + "+" + num2 +"="+ sum)
+print(str(num1) + "+" + str(num2) +"="+ strsum)
 
 
 ########################################################################
