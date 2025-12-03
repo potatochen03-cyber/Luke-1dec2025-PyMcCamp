@@ -36,7 +36,7 @@ age2=input("what is age2? ")
 if age1>age2:
     print("age1 is older")
 elif age1==age2:
-    print
+    print(they )
 else:
     print("age1 is younger")
 
