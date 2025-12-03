@@ -48,7 +48,7 @@ guess=input("password? ")
 if guess==real_password:
     print("access granted")
 else:
-    print("")
+    print("ACCESS DENIED")
 
 
 ########################################################################
