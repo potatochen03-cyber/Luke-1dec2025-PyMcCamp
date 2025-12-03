@@ -65,8 +65,8 @@ import random
 for count in range(2):
     print(random.randint(10,100))
 #35,47
-num1=35
-num2=47
+num1=random.randint(10,100)
+num2=random.randint(10,100)
 guess=input("what is num1 + num2")
 if guess==82:
     print("YOU ARE SMART")
