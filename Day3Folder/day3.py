@@ -43,10 +43,10 @@ else:
 
 ########################################################################
 # Task 6:
-real_password=passme
+real_password="passme"
 guess=input("password? ")
 if guess==real_password:
-    print("acs")
+    print("access ")
 
 
 ########################################################################
