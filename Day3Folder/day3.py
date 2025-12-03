@@ -65,7 +65,7 @@ import random
 for count in range(2):
     print(random.randint(10,100))
 #35,47
-
+num1=
 
 
 
