@@ -32,7 +32,7 @@ print("your total is " + str(total))
 ########################################################################
 # Task 5:
 age1=input("what is your age? ")
-age2=input("what is your age? ")
+age2=input("what is age2? ")
 
 
 ########################################################################
