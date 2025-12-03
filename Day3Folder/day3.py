@@ -63,7 +63,7 @@ for count in range(10):
 # Task 8:
 import random
 for count in range(2):
-    print(random.randint())
+    print(random.randint(10,100))
 
 
 
