@@ -69,7 +69,7 @@ num1=35
 num2=47
 guess=input("what is num1 + num2")
 if guess==82:
-    print
+    print("Y")
 
 
 
