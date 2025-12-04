@@ -12,7 +12,7 @@ while count <10:
 count1=5
 while count1 <33:
     print(count1)
-    count1
+    count1+=1
 
 
 
