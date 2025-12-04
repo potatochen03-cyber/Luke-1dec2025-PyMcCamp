@@ -23,7 +23,7 @@ while counter >0:
 
 ########################################################################
 # Task 2:
-riddle=input("what do u call a dear with no eyes")
+riddle=input("what do u call a no eye deer")
 
 
 ########################################################################
