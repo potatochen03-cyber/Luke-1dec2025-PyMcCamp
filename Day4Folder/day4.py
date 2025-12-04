@@ -24,7 +24,7 @@ while counter >0:
 ########################################################################
 # Task 2:
 riddle=input("what do u call a no eye deer ")
-ans=" no idea"
+ans="a no idea"
 while riddle != ans:
     riddle=input("what do u call a no eye deer ")
 
