@@ -23,10 +23,10 @@ while counter >0:
 
 ########################################################################
 # Task 2:
-riddle=input("what do u call a no eye deer")
-ans="no idea"
+riddle=input("what do u call a no eye deer ")
+ans=" no idea"
 while riddle != ans:
-    riddle=input("what do u call a no eye deer")
+    riddle=input("what do u call a no eye deer ")
 
 
 ########################################################################
