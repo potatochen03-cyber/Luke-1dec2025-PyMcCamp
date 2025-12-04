@@ -26,5 +26,6 @@ while counter >0:
 riddle="what do you call a deer with no eyes?"
 
 
+
 ########################################################################
 # Additional exercises:
