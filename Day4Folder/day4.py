@@ -23,7 +23,7 @@ while counter >0:
 
 ########################################################################
 # Task 2:
-riddle="what do you call a deer with no eyes
+riddle="what do you call a deer with no eyes?"
 
 
 ########################################################################
