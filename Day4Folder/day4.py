@@ -9,7 +9,8 @@ while count <10:
     print(count)
     count+=1
 
-count1
+count1=5
+
 
 
 
