@@ -10,7 +10,8 @@ while count <10:
     count+=1
 
 count1=5
-
+while count1 <33:
+    print
 
 
 
