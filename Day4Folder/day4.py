@@ -28,5 +28,6 @@ ans="no idea"
 while riddle != ans:
     riddle=input("what do u call a no eye deer")
 
+
 ########################################################################
 # Additional exercises:
