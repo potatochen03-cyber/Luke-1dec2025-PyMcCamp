@@ -17,7 +17,7 @@ while count1 <33:
 counter=50
 while counter >0:
     print(counter)
-    
+    counter-=1
 
 
 
