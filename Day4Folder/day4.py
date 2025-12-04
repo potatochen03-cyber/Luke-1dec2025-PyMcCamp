@@ -14,6 +14,7 @@ while count1 <33:
     print(count1)
     count1+=1
 
+counter=50
 
 
 
