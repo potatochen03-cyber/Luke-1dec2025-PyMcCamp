@@ -13,7 +13,7 @@ count1=5
 while count1 <33:
     print(count1)
     count1+=1
-
+print("------------------------------")
 counter=50
 while counter >0:
     print(counter)
